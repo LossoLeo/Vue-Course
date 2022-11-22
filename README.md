@@ -1,4 +1,4 @@
-# alura-tracker
+# alura-course
 
 ## Project setup
 ```
